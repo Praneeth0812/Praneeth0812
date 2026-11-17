@@ -77,18 +77,6 @@ A web and mobile platform that helps construction teams manage structures, activ
 
 ---
 
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8" width="24" /> GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Praneeth0812&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneeth0812&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
