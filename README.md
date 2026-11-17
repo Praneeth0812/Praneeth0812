@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gottipati%20Praneeth&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Product%20Builder&descSize=16&descAlignY=58" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="Gottipati Praneeth - Full Stack Developer" />
 
 <div align="center">
 
