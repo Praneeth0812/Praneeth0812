@@ -40,7 +40,10 @@ I use AI tools like ChatGPT, Claude and GitHub Copilot to research, prototype an
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,git,github,githubactions" /><br/>
 
 **Tools**<br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,blender,figma,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,blender,figma,linux" /><br/>
+
+**AI Tools**<br/>
+<img src="assets/ai-tools.svg" alt="ChatGPT, Claude, GitHub Copilot" />
 
 </div>
 
