@@ -2,31 +2,28 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AWS;Construction+tech+with+3D+visualisation;B.Tech+CSE+%40+IIITDM+Jabalpur;AccelQ+Certified+Test+Automation" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AWS;Construction+tech+with+3D+visualisation;B.Tech+CSE+%40+IIITDM+Jabalpur;AccelQ+Certified+Test+Automation" alt="Typing intro" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gottipati-praneeth-8a3987249/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="mailto:gottipatipraneeth2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
-<a href="https://ariayula-gold.vercel.app/"><img src="https://img.shields.io/badge/ARIA%20Website-161B22?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="ARIA Website" /></a>
+<a href="https://www.linkedin.com/in/gottipati-praneeth-8a3987249/"><img src="assets/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:gottipatipraneeth2005@gmail.com"><img src="assets/gmail.svg" height="40" alt="Gmail" /></a>&nbsp;
+<a href="https://ariayula-gold.vercel.app/"><img src="assets/website.svg" height="40" alt="ARIA Website" /></a>
+
 </div>
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" width="24" /> About Me
 
-```ts
-const praneeth = {
-  role: "Software Development Engineer Intern @ YULA Group",
-  education: "B.Tech CSE, IIITDM Jabalpur (2022 - 2026)",
-  currentlyBuilding: "Construction progress-monitoring platform with 3D model visualisation",
-  stack: ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS Serverless"],
-  aiTools: ["ChatGPT", "Claude", "GitHub Copilot"],
-  certifications: ["AccelQ Automation Expert", "AccelQ Automation Engineer"],
-  lookingFor: "AI-driven products, experimentation, and community building",
-  funFact: "I also co-ran a photography & videography club",
-};
-```
+I'm a Computer Science graduate from **IIITDM Jabalpur** who builds full-stack web and mobile products. Right now I'm a **Software Development Engineer Intern at YULA Group**, working on a construction progress-monitoring platform that links site schedules and progress to 3D building models.
+
+I use AI tools like ChatGPT, Claude and GitHub Copilot to research, prototype and ship faster, and I care about testing what I build. I'm AccelQ certified in test automation.
+
+- **Currently building:** construction-tech platform with 3D model visualisation
+- **Core stack:** React, TypeScript, Node.js, PostgreSQL, AWS Serverless
+- **Interested in:** AI-driven products, experimentation and community building
+- **Outside code:** co-ran the photography and videography club at IIITDM Jabalpur
 
 ---
 
