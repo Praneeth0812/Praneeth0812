@@ -7,8 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gottipati-praneeth-8a3987249/"><img src="assets/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:gottipatipraneeth2005@gmail.com"><img src="assets/gmail.svg" height="40" alt="Gmail" /></a>&nbsp;
-<a href="https://ariayula-gold.vercel.app/"><img src="assets/website.svg" height="40" alt="ARIA Website" /></a>
+<a href="mailto:gottipatipraneeth2005@gmail.com"><img src="assets/gmail.svg" height="40" alt="Gmail" /></a>
 
 </div>
 
@@ -73,7 +72,7 @@ I use AI tools like ChatGPT, Claude and GitHub Copilot to research, prototype an
 
 ## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%2338bdf8" width="24" /> Experience
 
-- **Software Development Engineer Intern, YULA Group** (Jul 2026 - Present): features, REST APIs and database workflows; 3D model and progress integration.
+- **Software Development Engineer Intern, YULA Group** (Jul 2026 - Present): features, REST APIs and database workflows; 3D model and progress integration; built the [ARIA project website](https://ariayula-gold.vercel.app/) from requirements to deployment.
 - **Full Stack Engineering Intern, Qentelli** (May 2025 - Dec 2025): six modules in Angular, .NET Web APIs and MSSQL; Postman API testing; AccelQ no-code automation; JWT and role-based access.
 
 ---

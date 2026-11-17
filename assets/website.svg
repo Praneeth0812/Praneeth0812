@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
-  <rect x="0.5" y="0.5" width="149" height="39" rx="10" fill="#161B22" stroke="#30363D"/>
-  <g transform="translate(16 11) scale(0.75)"><g fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g></g>
-  <text x="44" y="25.5" fill="#E6EDF3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500">ARIA Website</text>
-</svg>
