@@ -48,10 +48,11 @@ I use AI tools like ChatGPT, Claude and GitHub Copilot to research, prototype an
 
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="24" /> What I'm Working On
 
-| Project | What it is | Tech |
-|---|---|---|
-| <img src="https://api.iconify.design/lucide/building-2.svg?color=%2338bdf8" width="16" /> **Construction Progress Monitoring** (YULA Group) | Web and mobile app linking structures, schedules and site progress to a 3D building model | React, TypeScript, Node.js, PostgreSQL, AWS Lambda / S3 / API Gateway |
-| <img src="https://api.iconify.design/lucide/box.svg?color=%2338bdf8" width="16" /> **2D Floor Plan to 3D Model** | Exploring automatic generation of structured 3D building models from floor plans | Python, 3D geometry |
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%2338bdf8" width="18" /> **Construction Progress Monitoring** &middot; YULA Group
+
+A web and mobile platform that helps construction teams manage structures, activities, schedules and site progress, with each building component linked to its progress in an interactive 3D model.
+
+**Tech:** React, TypeScript, Node.js, PostgreSQL, AWS Lambda, S3, API Gateway
 
 ---
 
