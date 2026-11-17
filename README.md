@@ -64,15 +64,12 @@ const praneeth = {
 
 ## 📂 Featured Projects
 
-<div align="center">
+| Project | What it is | Tech |
+|---|---|---|
+| 🌐 **[Fusion Web](https://github.com/Praneeth0812/Fusion-client)** | React client for Fusion, the IIITDM Jabalpur campus ERP | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 📱 **[Fusion Mobile](https://github.com/Praneeth0812/Fusion-mobile)** | Mobile application for Fusion | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 📊 **[Netflix EDA](https://github.com/Praneeth0812/Netflix-EDA)** | Exploratory data analysis of the Netflix catalogue | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-<a href="https://github.com/Praneeth0812/Fusion-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Praneeth0812&repo=Fusion-client&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Praneeth0812/Fusion-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Praneeth0812&repo=Fusion-mobile&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Praneeth0812/Netflix-EDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Praneeth0812&repo=Netflix-EDA&theme=tokyonight&hide_border=true" /></a>
-
-</div>
-
-- **[Netflix EDA](https://github.com/Praneeth0812/Netflix-EDA)** (Python, Jupyter): exploratory data analysis of the Netflix catalogue.
 - **FusionIIIT: Patent Management Module** (React, JavaScript, REST APIs): patent submission, review, approval and tracking workflows for applicant, PCC administrator and director roles.
 - **FusionX: AI-Based Portal Development**: explored using AI models to understand an existing portal and build an alternative implementation.
 - **Smart Glasses for the Visually Impaired**: designed and built with survey-driven feedback from real users.
@@ -89,9 +86,6 @@ const praneeth = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praneeth0812&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth0812&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Praneeth0812&theme=tokyonight&hide_border=true" />
 
