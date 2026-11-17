@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Gottipati Praneeth - Full Stack Developer" />
+<img src="assets/banner-blue.svg" width="100%" alt="Gottipati Praneeth - Full Stack Developer" />
 
 <div align="center">
 
