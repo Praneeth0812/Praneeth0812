@@ -51,7 +51,6 @@ I use AI tools like ChatGPT, Claude and GitHub Copilot to research, prototype an
 | Project | What it is | Tech |
 |---|---|---|
 | <img src="https://api.iconify.design/lucide/building-2.svg?color=%2338bdf8" width="16" /> **Construction Progress Monitoring** (YULA Group) | Web and mobile app linking structures, schedules and site progress to a 3D building model | React, TypeScript, Node.js, PostgreSQL, AWS Lambda / S3 / API Gateway |
-| <img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8" width="16" /> **ARIA** | Project website built from requirements to responsive deployment | [Live site](https://ariayula-gold.vercel.app/) |
 | <img src="https://api.iconify.design/lucide/box.svg?color=%2338bdf8" width="16" /> **2D Floor Plan to 3D Model** | Exploring automatic generation of structured 3D building models from floor plans | Python, 3D geometry |
 
 ---
